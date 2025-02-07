@@ -38,6 +38,8 @@ header>.one>button{
 main{
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 main>.two{
     display: flex;
@@ -93,4 +95,216 @@ main>.two>.btn1{
     letter-spacing: 0%;
     text-align: center;
     margin-bottom: 45px;
+}
+main>.five{
+    display: flex;
+    flex-direction: column;
+    margin-top: 154px;
+    width: 100%;
+}
+main>.five>.six{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:24px
+}
+main>.five>.six>.seven{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+}
+main>.five>.six>.eight{
+    width: 852px;
+    height: 52px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+main>.five>.nine{
+    display:flex;
+    margin-top: 96px;
+    align-items: center;
+    justify-content: center;
+    gap:98.83px;
+}
+main>.five>.nine>.ten{
+    display:flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    width: 477px;
+    height: 219px;
+}
+main>.five>.nine>.ten>.eleven{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    width: 390px;
+    height: 72px;   
+}
+main>.five>.nine>.ten>.twelve{
+    margin-top: 16px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    width: 468px;
+    height: 52px;   
+}
+main>.five>.nine>.ten>.btn2{
+    margin-top: 32px;
+    width: 171px;
+    height: 47px;
+    justify-content: center;
+    align-items: center;
+    color:rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+}
+main>.five>.thirteen{
+    display:flex;
+    margin-top: 128px;
+    align-items: center;
+    justify-content: center;
+    gap:98.83px;
+}
+main>.five>.thirteen>.fourteen{
+    display:flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    width: 477px;
+    height: 219px;
+}
+main>.five>.thirteen>.fourteen>.fifteen{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    width: 390px;
+    height: 72px;   
+}
+main>.five>.thirteen>.fourteen>.sixteen{
+    margin-top: 16px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    width: 468px;
+    height: 52px;   
+}
+main>.five>.thirteen>.fourteen>.btn3{
+    margin-top: 32px;
+    width: 171px;
+    height: 47px;
+    justify-content: center;
+    align-items: center;
+    color:rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+}
+main>.five>.seventeen{
+    display:flex;
+    margin-top: 128px;
+    align-items: center;
+    justify-content: center;
+    gap:98.83px;
+}
+main>.five>.seventeen>.eighteen{
+    display:flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    width: 477px;
+    height: 219px;
+}
+main>.five>.seventeen>.eighteen>.nineteen{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    width: 390px;
+    height: 72px;   
+}
+main>.five>.seventeen>.eighteen>.twenty{
+    margin-top: 16px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    width: 468px;
+    height: 52px;   
+}
+main>.five>.seventeen>.eighteen>.btn4{
+    margin-top: 32px;
+    width: 171px;
+    height: 47px;
+    justify-content: center;
+    align-items: center;
+    color:rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+}
+main>.twenty1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 170px;
+    gap: 24px;
+}
+main>.twenty1>.twenty2{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+}
+main>.twenty1>.twenty3{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 852px;
+    height: 52px;
+}
+main>iframe{
+    width: 1076px;
+    height: 550px;
+    border-radius: 16px;
+    margin-top: 80px;
 }
