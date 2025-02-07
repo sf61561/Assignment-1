@@ -9,7 +9,6 @@ header>.one{
     display: flex;
     gap:768px;
     height: 131px;
-    border: 2px solid red;
     width: 100%;
     align-items: center;
     justify-content: center;
@@ -38,14 +37,60 @@ header>.one>button{
 }
 main{
     display: flex;
+    flex-direction: column;
 }
 main>.two{
     display: flex;
     width: 100%;
-    align-items: center;
     justify-content: center;
 }
-main>.two>img{
+main>.two>.img1{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+main>.two>.img2{
+    position: absolute;
     width: 173.03px;
     height: 228.9px;
+    margin-top: 26px;
+}
+main>.two>.three{
+    position: absolute;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 48px;
+    font-weight: 800;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 272px;
+    width: 998px;
+}
+main>.two>.four{
+    position: absolute;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 432px;
+    width: 852px;
+}
+main>.two>.btn1{
+    position: absolute;
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
+    margin-top: 516px;
+    width: 244px;
+    height: 65px;
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 45px;
 }
