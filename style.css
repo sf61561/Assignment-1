@@ -625,6 +625,9 @@ main>.fourty7>.fourty8>.fifty1>input[type="text"]{
     width: 548px;
     height: 10px;
 }
+main>.fourty7>.fourty8>.fifty1>input[type="text"]::placeholder{
+    font-family: Azeret Mono;
+}
 main>.fourty7>.fourty8>.fifty1>input[type="submit"]{
     width: 120px;
     height: 55px;
